@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="AzureStorage-Web.config Connection String" description="AzureStorage Connection String used in web.config by the application to access the database." defaultValue="DefaultEndpointsProtocol=https;AccountName=musicgallerystor19;AccountKey=BQp4PrMzJnF1OF+HIJUhefTfX+ELDIkx/1NuUIFQ+Lljns9mz3K+yEtpXgwrsP70j4plx5RcmMBZ80sQH0ZqqQ==;EndpointSuffix=core.windows.net" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Maurice\\Desktop\\ACADEMICS\\Year4\\Term2\\Cloud_Platform_Dev\\coursework\\MusicGallery\\MusicGallery\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AzureStorage']/@connectionString" />
+  </parameter>
+</parameters>
